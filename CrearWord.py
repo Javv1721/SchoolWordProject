@@ -2,8 +2,10 @@ import docx
 from docx.enum.text import *
 from docx.shared import Pt
 import os
+import time
 
-
+def wait(x):
+    time.sleep(x)
 
 # Open output.txt
 with open("output.txt", encoding="utf-8") as f:
@@ -39,10 +41,16 @@ for line in lines:
         r.font.name = 'Arial'
         r.font.size = Pt(12) 
 
+
+import subprocess
+
+# ejecutar taskkill /f /im winword.exe
+subprocess.call(["taskkill", "/f", "/im", "winword.exe"])
+
+wait(1)
+
 # Save the document as output.docx
 document.save('output.docx')
-
-
 
 
 

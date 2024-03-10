@@ -1,0 +1,15 @@
+# Definición de RSS, Podcast y Podcasting:
+
+$ RSS (Really Simple Syndication): Es un formato para distribuir y recopilar contenidos de distintas fuentes a través de la Web. Permite recibir noticias, artículos y cualquier información de tu interés en tu computadora o móvil.
+
+$ Podcast: Un archivo de audio, y en algunas ocasiones, vídeo, subtítulos o notas, de algún episodio de un programa original o ya emitido, de televisión, radio o de otro tipo, disponible en internet.
+
+$ Podcasting: El proceso o acción de publicar y distribuir los podcasts a través de RSS. Te permite suscribirte a los podcasts que quieras y escucharlos desde internet o descargarlos desde la plataforma donde están, para oírlos en tu computadora o en algún dispositivo móvil.
+
+# Tipos y formatos de podcast:
+
+
+# Conclusión:
+
+Los podcasts son una forma versátil y popular de consumir contenido informativo y de entretenimiento. Existen diferentes tipos y formatos de podcasts para satisfacer las necesidades de una amplia audiencia. La elección del tipo y formato dependerá del tema del podcast, el público objetivo y los recursos disponibles.
+
